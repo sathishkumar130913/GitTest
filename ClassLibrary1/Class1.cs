@@ -6,7 +6,9 @@ namespace ClassLibrary1
     {
         private void Display()
         {
-            Console.WriteLine("Hi"); ;
+            Console.ReadLine();
+            Console.WriteLine("Hi"); 
+            
         }
 
     }
